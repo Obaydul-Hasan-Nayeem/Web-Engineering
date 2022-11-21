@@ -1,0 +1,6 @@
+Website Link: https://islamology.000webhostapp.com/islamology/
+
+Admin Panel Login Details:
+        Link: https://islamology.000webhostapp.com/islamology/admin/login.php
+        Username: Nayeem
+        Password: 000
